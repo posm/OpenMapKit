@@ -4,7 +4,7 @@ OpenMapKit is a project started by the American Red Cross that builds on top of 
 
 [OpenMapKitAndroid](https://github.com/AmericanRedCross/OpenMapKitAndroid) is the android client.
 
-Install and workflow information is available in the [wiki](https://github.com/americanredcross/openmapkitandroid/wiki).
+Install and workflow information is available on [openmapkit.org](https://openmapkit.org).
 
 [OpenMapKitWebsite](https://github.com/AmericanRedCross/OpenMapKitWebsite) is the website for the project. We are moving all training materials within the wiki to the website.
 
